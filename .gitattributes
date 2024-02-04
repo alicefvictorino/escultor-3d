@@ -1,2 +1,5 @@
-html/* linguist-vendored
+html/**/ linguist-vendored
+!html/search/
+!html/search/**/*.js
+
 
